@@ -47,10 +47,10 @@ I thrive on tackling innovative projects and relish the chance to learn from exp
 In my free time, I dive into the realms of front-end and back-end development. It’s not just a profession but a hobby I deeply enjoy. From experimenting with new frameworks to designing interactive web pages, I find joy in every aspect of coding.
 
 
-## 💼 Achievements
+## 💼 Internships (1 Month) :- 🥇🖤
 
 ### Topperworld:-
-*Artificial Intelligence Intern*  
+**Artificial Intelligence Intern**  
 _June 2024 - Present (1 month)_
 
 ### Devtern:-
@@ -202,10 +202,9 @@ _July 2022 - August 2022 (2 months)_
 
 <h1>Thank you<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" /></h1>
 
-<div style="display: inline-block; text-align: right;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="150" height="150" />
-</div>
-<div style="display: inline-block; text-align: left;">
   <img src="https://github.com/ammaarquadri/ammaarquadri/raw/main/M.A.Q..png" alt="Image" width="150"/>
 </div>
+
 
