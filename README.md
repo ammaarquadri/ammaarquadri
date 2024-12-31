@@ -32,15 +32,12 @@ I thrive on tackling innovative projects and relish the chance to learn from exp
 
 - **Sree Dattha Group of Institutions**  
   Bachelor of Technology (BTech) in Computer Science and Information Technology (CSIT)  
-  _2021 - 2025_
-
+  
 - **Sri Chaitanya College of Education**  
   M.P.C.  
-  _July 2019 - May 2021_
-
+  
 - **B.R.J.C. Parsi High School, Parklane, Secunderabad**  
   SSC  
-  _2009 - 2019_
 
 ## 🌱 My Hobbies
 
