@@ -49,29 +49,19 @@ In my free time, I dive into the realms of front-end and back-end development. I
 
 ## 💼 Internships (1 Month) :- 🥇🖤
 
-### Topperworld:-
-**Artificial Intelligence Intern**  
-_June 2024 - Present (1 month)_
-
-### Devtern:-
-*Machine Learning Intern*  
-_June 2024 - June 2024 (1 month)_
-
-### Bharat Intern:-
-*Full Stack Developer*  
-_May 2024 - June 2024 (2 months)_
-
-### Oasis Infobyte:-
-*Web Development & Designing Intern*  
-_May 2024 - June 2024 (2 months)_
-
-### CODTECH IT SOLUTIONS:-
-*Python Developer*  
-_March 2024 - April 2024 (2 months)_
-
-### Verzeo:-
-*SQL Programmer*  
-_July 2022 - August 2022 (2 months)_
+- **Python Developer Intern** - ShadowFox
+- **React JS Developer Intern** - InternPedia
+- **Java Development Intern** - CodeClause
+- **Cyber Security Intern** - Prodigy InfoTech
+- **C++ Programming Intern** - Pinnacle Labs
+- **Digital Marketing Intern** - The Sparks Foundation
+- **Frontend Development Intern** - Next24tech Technology & Services
+- **Machine Learning Intern** - Devtern
+- **Artificial Intelligence Intern** - Topperworld
+- **Full Stack Development Intern** - Bharat Intern
+- **Web Development & Designing Intern** - Oasis Infobyte
+- **Python Developer Intern** - CODTECH IT SOLUTIONS
+- **SQL with Spring Boot Intern** - Verzeo
 
 
 ## 📊 GitHub Stats:
