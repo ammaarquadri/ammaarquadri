@@ -75,17 +75,17 @@ _July 2022 - August 2022 (2 months)_
 
 
 ## 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maq765&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="maq765" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammaarquadri&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="maq765" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maq765&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="maq765" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammaarquadri&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="maq765" /></p>
 <br>
 
-<p><a href="https://github.com/maq765/github-readme-stats"><img alt="Md. Ammaar Quadri Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maq765&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+<p><a href="https://github.com/ammaarquadri/github-readme-stats"><img alt="Md. Ammaar Quadri Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maq765&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
 <br>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/maq765/"><img src="https://github-profile-trophy.vercel.app/?username=maq765&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="maq765" /></a> </p>
+<p align="left"> <a href="https://github.com/ammaarquadri/"><img src="https://github-profile-trophy.vercel.app/?username=maq765&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="maq765" /></a> </p>
 <br>
 
 ## 🕸️ Web Development
@@ -178,7 +178,7 @@ _July 2022 - August 2022 (2 months)_
 [gog]: https://www.geeksforgeeks.org/
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
-[repo]: https://github.com/maq765?tab=repositories
+[repo]: https://github.com/ammaarquadri?tab=repositories
 <hr />
 
 ## 📫 Let's Connect!
@@ -194,13 +194,13 @@ _July 2022 - August 2022 (2 months)_
 ## ❤ Views and Followers
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 ![](https://img.shields.io/github/followers/maq765?logo=github&style=for-the-badge)
-<a href="https://github.com/maq765/github-profile-views-counter">
+<a href="https://github.com/ammaarquadri/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=maq765&style=for-the-badge">
 </a>
 
 ![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
 <div align="center">
-  <img src="https://github.com/maq765/maq765/raw/main/M.A.Q..png" alt="Image" width="150"/>
+  <img src="https://github.com/ammaarquadri/ammaarquadri/raw/main/M.A.Q..png" alt="Image" width="150"/>
 </div>
 
