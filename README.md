@@ -9,10 +9,10 @@ I thrive on tackling innovative projects and relish the chance to learn from exp
 
 <div align="center">
     <a href="#contact" style="padding:10px;">
-        <img height="40px" width="120px" src="https://img.shields.io/badge/contact-%23430098.svg?style=for-the-badge&logoColor=white">
+        <img height="40px" width="120px" src="https://img.shields.io/badge/contact-%23430098.svg?style=for-the-badge&logoColor=red">
     </a>
     <a href="My_Resume.pdf" style="padding:5px;">
-        <img height="40px" width="100px" src="https://img.shields.io/badge/resume-%23430098.svg?style=for-the-badge&logoColor=white">
+        <img height="40px" width="100px" src="https://img.shields.io/badge/resume-%23430098.svg?style=for-the-badge&logoColor=red">
     </a>
 </div>
 
