@@ -203,7 +203,9 @@ _July 2022 - August 2022 (2 months)_
 <div align="right">
   <img src="https://github.com/ammaarquadri/ammaarquadri/raw/main/M.A.Q..png" alt="Image" width="150"/>
 </div>
-Thank you <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" /></h1>
+<h1>Thank you<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" /></h1>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="150" height="150" /></div>
-
+<div align="right"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="150" height="150" /></div>
+<div align="left">
+  <img src="https://github.com/ammaarquadri/ammaarquadri/raw/main/M.A.Q..png" alt="Image" width="150"/>
+</div>
