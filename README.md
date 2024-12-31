@@ -11,7 +11,7 @@ I thrive on tackling innovative projects and relish the chance to learn from exp
     <a href="#contact" style="padding:10px;">
         <img height="40px" width="120px" src="https://img.shields.io/badge/contact-%23430098.svg?style=for-the-badge&logoColor=white">
     </a>
-    <a href="your_resume_link.pdf" style="padding:5px;">
+    <a href="My_Resume.pdf" style="padding:5px;">
         <img height="40px" width="100px" src="https://img.shields.io/badge/resume-%23430098.svg?style=for-the-badge&logoColor=white">
     </a>
 </div>
@@ -81,11 +81,11 @@ _July 2022 - August 2022 (2 months)_
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammaarquadri&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="maq765" /></p>
 <br>
 
-<p><a href="https://github.com/ammaarquadri/github-readme-stats"><img alt="Md. Ammaar Quadri Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maq765&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+<p><a href="https://github.com/ammaarquadri/github-readme-stats"><img alt="Md. Ammaar Quadri Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammaarquadri&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
 <br>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ammaarquadri/"><img src="https://github-profile-trophy.vercel.app/?username=maq765&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="maq765" /></a> </p>
+<p align="left"> <a href="https://github.com/ammaarquadri/"><img src="https://github-profile-trophy.vercel.app/?username=ammaarquadri&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="ammaarquadri" /></a> </p>
 <br>
 
 ## 🕸️ Web Development
@@ -193,19 +193,19 @@ _July 2022 - August 2022 (2 months)_
 
 ## ❤ Views and Followers
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
-![](https://img.shields.io/github/followers/maq765?logo=github&style=for-the-badge)
+![](https://img.shields.io/github/followers/ammaarquadri?logo=github&style=for-the-badge)
 <a href="https://github.com/ammaarquadri/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=maq765&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=ammaarquadri&style=for-the-badge">
 </a>
 
 ![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
-<div align="right">
-  <img src="https://github.com/ammaarquadri/ammaarquadri/raw/main/M.A.Q..png" alt="Image" width="150"/>
-</div>
 <h1>Thank you<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" /></h1>
 
-<div align="right"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="150" height="150" /></div>
-<div align="left">
+<div style="display: inline-block; text-align: right;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="150" height="150" />
+</div>
+<div style="display: inline-block; text-align: left;">
   <img src="https://github.com/ammaarquadri/ammaarquadri/raw/main/M.A.Q..png" alt="Image" width="150"/>
 </div>
+
