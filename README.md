@@ -62,18 +62,10 @@ In my free time, I dive into the realms of front-end and back-end development. I
 
 
 ## 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammaarquadri&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="maq765" /></p>
-<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammaarquadri&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="maq765" /></p>
 <br>
 
-<p><a href="https://github.com/ammaarquadri/github-readme-stats"><img alt="Md. Ammaar Quadri Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammaarquadri&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
-<br>
-
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ammaarquadri/"><img src="https://github-profile-trophy.vercel.app/?username=ammaarquadri&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="ammaarquadri" /></a> </p>
-<br>
 
 ## 🕸️ Web Development
 
