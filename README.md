@@ -216,7 +216,9 @@ In my free time, I dive into the realms of front-end and back-end development. I
 
 ---
 
-Original design by [@ammaarquadri](https://github.com/ammaarquadri)
+<p align="center">
+  ⚡ Original design by <a href="https://github.com/ammaarquadri">@ammaarquadri</a>
+</p>
 
 <h2 align="center"> <b> Content © 2026 Ammaar Quadri. All rights reserved. </b></h2>
 
