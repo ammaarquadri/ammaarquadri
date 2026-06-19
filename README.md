@@ -1,5 +1,11 @@
-<h1 align="center">Hi there! <img src="https://github.com/maq765/maq765/raw/main/wave.gif" alt="Wave GIF" width="30" height="30"> I'm Md. Ammaar Quadri
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="75" height="75" /></h1>
+<h1 align="center">
+  Hi there! <img src="https://github.com/maq765/maq765/raw/main/wave.gif" alt="Wave GIF" width="30">
+</h1>
+
+<h2 align="center">
+  I'm Muhammad Ammaar Quadri
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="60">
+</h2>
 
 <p align="center">
 <b>I am a passionate Software Engineering Intern based in Hyderabad, Telangana, India.</b> <br>
