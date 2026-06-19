@@ -208,7 +208,7 @@ In my free time, I dive into the realms of front-end and back-end development. I
 <p align="center">
   <img src="https://github.com/ammaarquadri/ammaarquadri/blob/main/DP.png?raw=true"
        alt="Ammaar Quadri"
-       width="250" />
+       width="350" />
 </p>
 
 <p align="center">
